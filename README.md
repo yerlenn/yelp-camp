@@ -5,6 +5,11 @@ It is a website where users can create and review campgrounds. In order to revie
 
 This project was created using Node.js, Express, MongoDB, and Bootstrap. Passport.js was used to handle authentication.
 
+## Preview
+![Image Description](https://github.com/yerlenn/yelp-camp/blob/main/homepage.png)
+
+
+
 ## Features
 * Users can create, edit, and remove campgrounds
 * Users can review campgrounds once, and edit or remove their review
