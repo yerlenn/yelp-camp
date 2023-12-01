@@ -8,6 +8,10 @@ This project was created using Node.js, Express, MongoDB, and Bootstrap. Passpor
 ## Preview
 ![Image Description](https://github.com/yerlenn/yelp-camp/blob/main/homepage.png)
 
+![Image Description](https://github.com/yerlenn/yelp-camp/blob/main/review.png)
+
+![Image Description](https://github.com/yerlenn/yelp-camp/blob/main/edit.png)
+
 
 
 ## Features
